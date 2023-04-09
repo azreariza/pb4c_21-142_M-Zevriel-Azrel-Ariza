@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Makanan Khas Jawa</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
